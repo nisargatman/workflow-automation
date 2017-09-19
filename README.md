@@ -10,6 +10,11 @@ A tool to automate basic workflows using natural language commands.
  - Concept extraction
    - A file that breaks a workflow automation command into its subcommands by splitting it along its verbs.
 
+## Requirements
+ - python (>2.7)
+ - beautiful soup `pip install beautifulsoup4`
+ - nltk `sudo pip install -U nltk`
+
 ## How to use Git
 1. `git add <filename|.>` to add files to the local git repository
 2. `git commit -m "Message"` to commit the files to the remote repository
