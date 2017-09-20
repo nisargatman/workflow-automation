@@ -15,7 +15,7 @@ A tool to automate basic workflows using natural language commands.
  - beautiful soup `pip install beautifulsoup4`
  - nltk `sudo pip install -U nltk`
  
- `python installation.py` should install the relevant modules.
+ `python installation.py` should install the relevant modules. Ensure that you have `pip` and [python](https://www.python.org/downloads/) installed.
 
 ## How to use Git
 1. `git add <filename|.>` to add files to the local git repository
