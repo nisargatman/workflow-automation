@@ -17,7 +17,7 @@ A tool to automate basic workflows using natural language commands.
  
  `python installation.py` should install the relevant modules. Ensure that you have `pip` and [python](https://www.python.org/downloads/) installed.
 
-## How to use Git
+## How to use Git (Basic Tutorial)
 1. `git add <filename|.>` to add files to the local git repository
 2. `git commit -m "Message"` to commit the files to the remote repository
 3. `git push` to push the files to the remote repository
