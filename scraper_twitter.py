@@ -1,6 +1,5 @@
 import urllib2
 from bs4 import BeautifulSoup
-import csv
 
 base_url = "https://dev.twitter.com/rest/reference"
 url = "/get/lists/subscribers"
